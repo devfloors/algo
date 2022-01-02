@@ -1,1 +1,1 @@
-ss
+hash study
