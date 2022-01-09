@@ -1,1 +1,1 @@
-hash study
+tree study
